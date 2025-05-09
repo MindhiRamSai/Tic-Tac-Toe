@@ -18,6 +18,7 @@ A responsive and interactive **Tic Tac Toe** game built using **HTML, CSS, and J
 
 ## 📸 Screenshot
 
+![Screenshot 2025-05-09 160859](https://github.com/user-attachments/assets/d70fd824-37d7-424c-9dc5-ac7c4c4b1252)
 
 
 
