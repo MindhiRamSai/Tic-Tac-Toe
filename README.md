@@ -1,6 +1,15 @@
 # 🎮 Tic Tac Toe Web Application
 
 A responsive and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. This project supports both **Single Player (vs Computer)** and **Multiplayer (2 Players)** modes with a simple and clean UI.
+## 🔗 Live Demo
+
+👉 [Click here to play the game](https://mindhiramsai.github.io/Tic-Tac-Toe/)
+
+
+## 📸 Screenshot
+
+![Screenshot 2025-05-09 160859](https://github.com/user-attachments/assets/d70fd824-37d7-424c-9dc5-ac7c4c4b1252)
+
 
 ## 🚀 Features
 
@@ -15,10 +24,6 @@ A responsive and interactive **Tic Tac Toe** game built using **HTML, CSS, and J
 - **HTML** – For structuring the webpage.
 - **CSS** – For styling and layout.
 - **JavaScript** – For game logic and interaction.
-
-## 📸 Screenshot
-
-![Screenshot 2025-05-09 160859](https://github.com/user-attachments/assets/d70fd824-37d7-424c-9dc5-ac7c4c4b1252)
 
 
 
